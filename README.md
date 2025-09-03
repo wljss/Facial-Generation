@@ -2,7 +2,7 @@
 
 之前一个课程作业搞得人脸生成，传到github上记录一下。
 
-**使用的数据集是img_align_celeba，具体下载方法可以百度一下。**
+**使用的数据集是img_align_celeba，具体下载方法可以百度一下。然后放在和work.ipynb同一目录下**
 
 导出python环境指令：
 
