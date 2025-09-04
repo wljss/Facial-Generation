@@ -12,4 +12,4 @@ conda env export > environment.yaml
 
 conda env create -f environment.yaml
 
-如有侵权，请联系我联系删除。
+如有侵权，请联系我删除。
