@@ -13,3 +13,5 @@ conda env export > environment.yaml
 conda env create -f environment.yaml
 
 如有侵权，请联系我删除。
+
+Conv2d输出尺寸计算公式 输出尺寸 = (输入尺寸 + 2*填充 - 卷积核大小) / 步长 + 1，除法是向下取整
