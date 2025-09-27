@@ -20,6 +20,8 @@ ConvTranspose2d输出尺寸计算公式 输出尺寸 = (输入尺寸 - 1) * 步�
 
 为啥用nn.Tanh()？因为用到了transforms.Normalize
 
+### 生成的图片放到了generated-facial-images目录下，图片删了一点，不然太大传不上来
+
 目前还没搞明白的：
 
 ndf为啥那么大
